@@ -23,6 +23,7 @@ public class Aluno {
         this.altura = altura;
     }
 
+
     public String getCpf() {
         return cpf;
     }
